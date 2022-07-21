@@ -1,6 +1,6 @@
 /* inside style.css */
 body {
-  background-color: silver;
+  background-color: lightpink;
   padding-top: 70px;
   padding-right: 70px;
   padding-bottom: 70px;
@@ -14,6 +14,7 @@ img {
 }
 
 h1{
+  height:50%;
   font-family: "Lucida Console", "Courier New", monospace;
   color: black;
   text-align: center;
