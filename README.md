@@ -20,5 +20,5 @@ will displayed.
 Using Netlify I hosted the site.
 
 
-
-[[![image](https://user-images.githubusercontent.com/90406664/180173690-0c66be58-a08b-430a-9f7c-3ba0a3f28c3f.png)]]([url](https://genuine-liger-ccecb3.netlify.app/))
+([url](https://genuine-liger-ccecb3.netlify.app/))
+[[![image](https://user-images.githubusercontent.com/90406664/180173690-0c66be58-a08b-430a-9f7c-3ba0a3f28c3f.png)]]
